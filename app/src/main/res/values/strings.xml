@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentListApp</string>
+    <string name="item_image_desc">Image Description</string>
+</resources>
